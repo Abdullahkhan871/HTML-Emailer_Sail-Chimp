@@ -6,7 +6,7 @@ A high-performance, responsive HTML email template built using **XHTML 1.0 Trans
 
 Below is a demonstration of how the template adapts to various screen sizes, ensuring a seamless user experience from desktop to mobile.
 
-[https://github.com/user-attachments/assets/YOUR_VIDEO_ID_HERE](https://www.google.com/search?q=https://github.com/user-attachments/assets/video.anydesk)
+[https://github.com/user-attachments/assets/video.anydesk](https://www.google.com/search?q=https://github.com/user-attachments/assets/video.anydesk)
 
 ---
 
